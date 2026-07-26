@@ -1,0 +1,11 @@
+# Product import file for the Telegram shop bot.
+# Format: Name | Description | Price | ImageURL | Category | Stock
+# Leave ImageURL blank (just leave the space between the | | ) if you don't have a photo yet.
+# Lines starting with # are ignored.
+
+Classic Cotton Shirt | Men's short-sleeve shirt, sizes S-XL | 15.99 |  | Clothing | 40
+Denim Trousers | Slim-fit denim trousers, sizes 30-38 | 24.99 |  | Clothing | 30
+Ceramic Dinner Plate Set | Set of 4 dinner plates, 10 inch | 19.99 |  | Home & Kitchen | 25
+Everyday Running Shoes | Lightweight running shoes, sizes 40-45 | 34.99 |  | Footwear | 20
+Straw Sun Hat | Wide-brim straw hat, one size | 9.99 |  | Accessories | 35
+Classic Baseball Cap | Adjustable cotton baseball cap | 7.99 |  | Accessories | 50
